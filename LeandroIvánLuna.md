@@ -1,6 +1,10 @@
+![yo](https://user-images.githubusercontent.com/81997929/113632750-1f2d4300-9642-11eb-9f33-f5cba6c897a1.jpg)
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Leandro Iván Luna Agesta
+
+¡Buenas! vivo en Berazategui, tengo 29 años, estoy casado y tengo una hija de 7 años. Aun no estoy trabajando en la industria pero espero ya durante este año poder 
+cambiar de trabajo y empezar de lleno a dedicarme al desarrollo de software. 
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
